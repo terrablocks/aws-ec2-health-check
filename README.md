@@ -1,6 +1,6 @@
 # Create health check alarm for EC2
 
-![License](https://img.shields.io/github/license/terrablocks/aws-ec2-health-check?style=for-the-badge) ![Tests](https://img.shields.io/github/workflow/status/terrablocks/aws-ec2-health-check/tests/main?label=Test&style=for-the-badge) ![Checkov](https://img.shields.io/github/workflow/status/terrablocks/aws-ec2-health-check/checkov/main?label=Checkov&style=for-the-badge) ![Commit](https://img.shields.io/github/last-commit/terrablocks/aws-ec2-health-check?style=for-the-badge) ![Release](https://img.shields.io/github/v/release/terrablocks/aws-ec2-health-check?style=for-the-badge)
+![License](https://img.shields.io/github/license/terrablocks/aws-ec2-health-check?style=for-the-badge) ![Tests](https://img.shields.io/github/actions/workflow/status/terrablocks/aws-ec2-health-check/tests.yml?branch=main&label=Test&style=for-the-badge) ![Checkov](https://img.shields.io/github/actions/workflow/status/terrablocks/aws-ec2-health-check/checkov.yml?branch=main&label=Checkov&style=for-the-badge) ![Commit](https://img.shields.io/github/last-commit/terrablocks/aws-ec2-health-check?style=for-the-badge) ![Release](https://img.shields.io/github/v/release/terrablocks/aws-ec2-health-check?style=for-the-badge)
 
 This terraform module will deploy the following services:
 - CloudWatch Alarm
